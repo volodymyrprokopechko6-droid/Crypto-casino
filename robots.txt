@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /go-slotrave/
-Disallow: /go-granawin/
-Sitemap: https://volodymyrprokopechko6-droid.github.io/Crypto-casino/sitemap.xml
